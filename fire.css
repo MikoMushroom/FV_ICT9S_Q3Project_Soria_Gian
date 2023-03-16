@@ -1,0 +1,36 @@
+body
+{
+	background-image: url(f-bg.png);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 1600px;
+}
+.container
+{
+	background-color: #914843;
+	padding: 15px;
+	border-radius: 15px 15px;
+	background-image: url(crt.png);
+	background-repeat: no-repeat;
+	background-size:2500px
+}
+img
+{
+	border-radius: 15px 15px;
+}
+h1
+{
+	background-color: #d15856
+} 
+h3
+{
+	margin-left: 5px
+}
+table
+{
+	align-self: center;
+}
+nav
+{
+	align-self:center ;
+}
